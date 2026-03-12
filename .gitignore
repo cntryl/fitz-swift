@@ -1,0 +1,9 @@
+/.build/
+/DerivedData/
+/*.xcodeproj/xcuserdata/
+/*.xcworkspace/xcuserdata/
+/.swiftpm/
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
